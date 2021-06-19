@@ -15,7 +15,7 @@ cp config.py.sample config.py # add auth info after copying
 To Run:
 
 ```python
-cd robinbood-bot/robinhood-bot (If outside of root directory)
+cd robinbood-bot/robinhoodbot (If outside of root directory)
 python3 main.py
 ```
 
