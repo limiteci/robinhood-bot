@@ -1,4 +1,4 @@
-# ROBINHOOD-B0T
+# Simple Python Robinhood Bot ![](https://img.shields.io/badge/src-public-orange)
 This repository houses a simple bot to automatically trade stocks/options/crypto with the **_Robinhood API Key_** based on sets of parameters. Read the rest of this [readme.md](https://github.com/limiteci/robinhood-bot/blob/main/README.md) for further context and information.
 
 NOTE: this project is founded on Python 3.7+
